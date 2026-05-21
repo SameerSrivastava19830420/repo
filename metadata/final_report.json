@@ -83,7 +83,7 @@
     "UNIT_TEST": 1
   },
   "deleted_paths": [],
-  "head_commit": "3c9b47df91626891e5f206b3fa37578922c07fc1",
+  "head_commit": "ad0328f01b56655cbbbbc9fc15d2eb7792e87b57",
   "metrics": {
     "approved_files": 72,
     "chunks": 324,
@@ -103,45 +103,45 @@
     "working": 324
   },
   "repo_url": "https://github.com/SameerSrivastava19830420/repo",
-  "run_id": "7b6c6daec447",
+  "run_id": "aa926d08867b",
   "stage_timings": {
     "chunking": {
       "duration_s": 0.014,
-      "end": 1779363935.3461168,
-      "start": 1779363935.3320065
+      "end": 1779364792.6242642,
+      "start": 1779364792.610004
     },
     "embedding": {
       "duration_s": 0.0,
-      "end": 1779363935.3461566,
-      "start": 1779363935.3461456
+      "end": 1779364792.6243029,
+      "start": 1779364792.6242857
     },
     "files_scanned": {
       "duration_s": 0.006,
-      "end": 1779363935.3319824,
-      "start": 1779363935.326184
+      "end": 1779364792.6099803,
+      "start": 1779364792.6043324
     },
     "metadata": {
-      "duration_s": 0.026,
-      "end": 1779363935.3717813,
-      "start": 1779363935.3461664
+      "duration_s": 0.027,
+      "end": 1779364792.6511161,
+      "start": 1779364792.6243172
     },
     "rag_storage": {
-      "duration_s": 0.481,
-      "end": 1779363935.8531015,
-      "start": 1779363935.3718436
+      "duration_s": 0.684,
+      "end": 1779364793.3347194,
+      "start": 1779364792.6511588
     },
     "repo_cloned": {
-      "duration_s": 1.138,
-      "end": 1779363935.1986692,
-      "start": 1779363934.0610137
+      "duration_s": 1.13,
+      "end": 1779364792.244322,
+      "start": 1779364791.1141334
     },
     "report": {
-      "start": 1779363935.87544
+      "start": 1779364793.3572793
     },
     "traceability": {
       "duration_s": 0.022,
-      "end": 1779363935.875411,
-      "start": 1779363935.8531318
+      "end": 1779364793.3569856,
+      "start": 1779364793.334756
     }
   },
   "traceability_summary": {
