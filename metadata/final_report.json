@@ -1,0 +1,171 @@
+{
+  "approved_files": [
+    "brd/Personal_Loan_BRD.docx",
+    "code/ContractGeneration/Controllers/ContractGenerationController.cs",
+    "code/ContractGeneration/DTOs/ContractGenerationRequest.cs",
+    "code/ContractGeneration/Models/ContractGenerationModel.cs",
+    "code/ContractGeneration/Repositories/ContractGenerationRepository.cs",
+    "code/ContractGeneration/Services/ContractGenerationService.cs",
+    "code/ContractGeneration/Services/IContractGenerationService.cs",
+    "code/ContractGeneration/Tests/ContractGenerationTests.cs",
+    "code/CustomerOnboarding/Controllers/CustomerOnboardingController.cs",
+    "code/CustomerOnboarding/DTOs/CustomerOnboardingRequest.cs",
+    "code/CustomerOnboarding/Models/CustomerOnboardingModel.cs",
+    "code/CustomerOnboarding/Repositories/CustomerOnboardingRepository.cs",
+    "code/CustomerOnboarding/Services/CustomerOnboardingService.cs",
+    "code/CustomerOnboarding/Services/ICustomerOnboardingService.cs",
+    "code/CustomerOnboarding/Tests/CustomerOnboardingTests.cs",
+    "code/CustomerWishCapture/Controllers/CustomerWishCaptureController.cs",
+    "code/CustomerWishCapture/DTOs/CustomerWishCaptureRequest.cs",
+    "code/CustomerWishCapture/Models/CustomerWishCaptureModel.cs",
+    "code/CustomerWishCapture/Repositories/CustomerWishCaptureRepository.cs",
+    "code/CustomerWishCapture/Services/CustomerWishCaptureService.cs",
+    "code/CustomerWishCapture/Services/ICustomerWishCaptureService.cs",
+    "code/CustomerWishCapture/Tests/CustomerWishCaptureTests.cs",
+    "code/LoanBooking/Controllers/LoanBookingController.cs",
+    "code/LoanBooking/DTOs/LoanBookingRequest.cs",
+    "code/LoanBooking/Models/LoanBookingModel.cs",
+    "code/LoanBooking/Repositories/LoanBookingRepository.cs",
+    "code/LoanBooking/Services/ILoanBookingService.cs",
+    "code/LoanBooking/Services/LoanBookingService.cs",
+    "code/LoanBooking/Tests/LoanBookingTests.cs",
+    "code/LoanClosure/Controllers/LoanClosureController.cs",
+    "code/LoanClosure/DTOs/LoanClosureRequest.cs",
+    "code/LoanClosure/Models/LoanClosureModel.cs",
+    "code/LoanClosure/Repositories/LoanClosureRepository.cs",
+    "code/LoanClosure/Services/ILoanClosureService.cs",
+    "code/LoanClosure/Services/LoanClosureService.cs",
+    "code/LoanClosure/Tests/LoanClosureTests.cs",
+    "code/LoanLifecycle/Controllers/LoanLifecycleController.cs",
+    "code/LoanLifecycle/DTOs/LoanLifecycleRequest.cs",
+    "code/LoanLifecycle/Models/LoanLifecycleModel.cs",
+    "code/LoanLifecycle/Repositories/LoanLifecycleRepository.cs",
+    "code/LoanLifecycle/Services/ILoanLifecycleService.cs",
+    "code/LoanLifecycle/Services/LoanLifecycleService.cs",
+    "code/LoanLifecycle/Tests/LoanLifecycleTests.cs",
+    "code/PaymentPlan/Controllers/PaymentPlanController.cs",
+    "code/PaymentPlan/DTOs/PaymentPlanRequest.cs",
+    "code/PaymentPlan/Models/PaymentPlanModel.cs",
+    "code/PaymentPlan/Repositories/PaymentPlanRepository.cs",
+    "code/PaymentPlan/Services/IPaymentPlanService.cs",
+    "code/PaymentPlan/Services/PaymentPlanService.cs",
+    "code/PaymentPlan/Tests/PaymentPlanTests.cs",
+    "code/Shared/Config/appsettings.json",
+    "code/Shared/Middleware/ExceptionMiddleware.cs",
+    "code/readme.txt",
+    "ds/BRD_FS_DS_RTM.xlsx",
+    "ds/Contract_Generation_DS.docx",
+    "ds/Customer_Onboarding_DS.docx",
+    "ds/Customer_Wish_Capture_DS.docx",
+    "ds/Loan_Booking_DS.docx",
+    "ds/Loan_Closure_DS.docx",
+    "ds/Loan_Lifecycle_DS.docx",
+    "ds/Payment_Plan_Generation_DS.docx",
+    "ds/readme.txt",
+    "fs/BRD_to_FS_RTM.xlsx",
+    "fs/Contract_Generation_FS.docx",
+    "fs/Customer_Onboarding_FS.docx",
+    "fs/Customer_Wish_Capture_FS.docx",
+    "fs/Loan_Booking_FS.docx",
+    "fs/Loan_Closure_FS.docx",
+    "fs/Loan_Lifecycle_FS.docx",
+    "fs/Payment_Plan_Generation_FS.docx",
+    "qc_tests/readme.txt",
+    "unit_tests/readme.txt"
+  ],
+  "branch": "main",
+  "categories": {
+    "BRD": 1,
+    "CODE": 52,
+    "DS": 9,
+    "FS": 8,
+    "QC_TEST": 1,
+    "UNIT_TEST": 1
+  },
+  "deleted_paths": [],
+  "head_commit": "c087bf42005ccddfdd261cf67944c2126525c8aa",
+  "metrics": {
+    "approved_files": 72,
+    "chunks": 324,
+    "embeddings": 324,
+    "files_deleted": 0,
+    "files_modified": 0,
+    "files_new": 72,
+    "files_total": 72,
+    "files_unchanged": 0,
+    "rag_collection_size_trusted": 324,
+    "rag_collection_size_working": 324,
+    "traceability_links": 14,
+    "unapproved_files": 0
+  },
+  "rag": {
+    "trusted": 324,
+    "working": 324
+  },
+  "repo_url": "https://github.com/SameerSrivastava19830420/repo",
+  "run_id": "97fd2d4422c5",
+  "stage_timings": {
+    "chunking": {
+      "duration_s": 0.018,
+      "end": 1779362427.9371133,
+      "start": 1779362427.9190104
+    },
+    "embedding": {
+      "duration_s": 0.001,
+      "end": 1779362427.9377558,
+      "start": 1779362427.9371448
+    },
+    "files_scanned": {
+      "duration_s": 0.006,
+      "end": 1779362427.9189816,
+      "start": 1779362427.9131904
+    },
+    "metadata": {
+      "duration_s": 0.016,
+      "end": 1779362427.9535093,
+      "start": 1779362427.9377837
+    },
+    "rag_storage": {
+      "duration_s": 28.695,
+      "end": 1779362456.6483474,
+      "start": 1779362427.9535477
+    },
+    "repo_cloned": {
+      "duration_s": 0.349,
+      "end": 1779362427.7380388,
+      "start": 1779362427.3892288
+    },
+    "report": {
+      "start": 1779362456.6763802
+    },
+    "traceability": {
+      "duration_s": 0.024,
+      "end": 1779362456.6722896,
+      "start": 1779362456.648381
+    }
+  },
+  "traceability_summary": {
+    "link_count": 14,
+    "requirements": [
+      "DOCUMENT#0",
+      "DOCUMENT#60",
+      "DOCUMENT#120",
+      "DOCUMENT#180",
+      "DOCUMENT#240",
+      "DOCUMENT#300",
+      "DOCUMENT#360",
+      "DOCUMENT#420",
+      "DOCUMENT#480",
+      "DOCUMENT#540",
+      "DOCUMENT#600",
+      "DOCUMENT#660",
+      "DOCUMENT#720",
+      "DOCUMENT#780",
+      "DOCUMENT#840",
+      "DOCUMENT#900",
+      "DOCUMENT#960",
+      "DOCUMENT#1020"
+    ]
+  },
+  "unapproved_files": []
+}

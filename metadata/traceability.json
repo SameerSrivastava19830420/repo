@@ -1,0 +1,148 @@
+{
+  "by_artifact": {
+    "BR-9": {
+      "BRD": [],
+      "CODE": [],
+      "DS": [
+        "ds/Contract_Generation_DS.docx::chunk-0005",
+        "ds/Customer_Onboarding_DS.docx::chunk-0004",
+        "ds/Customer_Wish_Capture_DS.docx::chunk-0005",
+        "ds/Loan_Booking_DS.docx::chunk-0005",
+        "ds/Loan_Closure_DS.docx::chunk-0005",
+        "ds/Loan_Lifecycle_DS.docx::chunk-0005",
+        "ds/Payment_Plan_Generation_DS.docx::chunk-0005"
+      ],
+      "FS": [
+        "fs/Contract_Generation_FS.docx::chunk-0005",
+        "fs/Customer_Onboarding_FS.docx::chunk-0004",
+        "fs/Customer_Wish_Capture_FS.docx::chunk-0005",
+        "fs/Loan_Booking_FS.docx::chunk-0005",
+        "fs/Loan_Closure_FS.docx::chunk-0005",
+        "fs/Loan_Lifecycle_FS.docx::chunk-0005",
+        "fs/Payment_Plan_Generation_FS.docx::chunk-0004"
+      ],
+      "QC_TEST": [],
+      "UNIT_TEST": []
+    }
+  },
+  "links": [
+    {
+      "from_chunk": null,
+      "requirement": "BR-9",
+      "to_category": "DS",
+      "to_chunk": "ds/Contract_Generation_DS.docx::chunk-0005",
+      "to_file": "ds/Contract_Generation_DS.docx"
+    },
+    {
+      "from_chunk": null,
+      "requirement": "BR-9",
+      "to_category": "DS",
+      "to_chunk": "ds/Customer_Onboarding_DS.docx::chunk-0004",
+      "to_file": "ds/Customer_Onboarding_DS.docx"
+    },
+    {
+      "from_chunk": null,
+      "requirement": "BR-9",
+      "to_category": "DS",
+      "to_chunk": "ds/Customer_Wish_Capture_DS.docx::chunk-0005",
+      "to_file": "ds/Customer_Wish_Capture_DS.docx"
+    },
+    {
+      "from_chunk": null,
+      "requirement": "BR-9",
+      "to_category": "DS",
+      "to_chunk": "ds/Loan_Booking_DS.docx::chunk-0005",
+      "to_file": "ds/Loan_Booking_DS.docx"
+    },
+    {
+      "from_chunk": null,
+      "requirement": "BR-9",
+      "to_category": "DS",
+      "to_chunk": "ds/Loan_Closure_DS.docx::chunk-0005",
+      "to_file": "ds/Loan_Closure_DS.docx"
+    },
+    {
+      "from_chunk": null,
+      "requirement": "BR-9",
+      "to_category": "DS",
+      "to_chunk": "ds/Loan_Lifecycle_DS.docx::chunk-0005",
+      "to_file": "ds/Loan_Lifecycle_DS.docx"
+    },
+    {
+      "from_chunk": null,
+      "requirement": "BR-9",
+      "to_category": "DS",
+      "to_chunk": "ds/Payment_Plan_Generation_DS.docx::chunk-0005",
+      "to_file": "ds/Payment_Plan_Generation_DS.docx"
+    },
+    {
+      "from_chunk": null,
+      "requirement": "BR-9",
+      "to_category": "FS",
+      "to_chunk": "fs/Contract_Generation_FS.docx::chunk-0005",
+      "to_file": "fs/Contract_Generation_FS.docx"
+    },
+    {
+      "from_chunk": null,
+      "requirement": "BR-9",
+      "to_category": "FS",
+      "to_chunk": "fs/Customer_Onboarding_FS.docx::chunk-0004",
+      "to_file": "fs/Customer_Onboarding_FS.docx"
+    },
+    {
+      "from_chunk": null,
+      "requirement": "BR-9",
+      "to_category": "FS",
+      "to_chunk": "fs/Customer_Wish_Capture_FS.docx::chunk-0005",
+      "to_file": "fs/Customer_Wish_Capture_FS.docx"
+    },
+    {
+      "from_chunk": null,
+      "requirement": "BR-9",
+      "to_category": "FS",
+      "to_chunk": "fs/Loan_Booking_FS.docx::chunk-0005",
+      "to_file": "fs/Loan_Booking_FS.docx"
+    },
+    {
+      "from_chunk": null,
+      "requirement": "BR-9",
+      "to_category": "FS",
+      "to_chunk": "fs/Loan_Closure_FS.docx::chunk-0005",
+      "to_file": "fs/Loan_Closure_FS.docx"
+    },
+    {
+      "from_chunk": null,
+      "requirement": "BR-9",
+      "to_category": "FS",
+      "to_chunk": "fs/Loan_Lifecycle_FS.docx::chunk-0005",
+      "to_file": "fs/Loan_Lifecycle_FS.docx"
+    },
+    {
+      "from_chunk": null,
+      "requirement": "BR-9",
+      "to_category": "FS",
+      "to_chunk": "fs/Payment_Plan_Generation_FS.docx::chunk-0004",
+      "to_file": "fs/Payment_Plan_Generation_FS.docx"
+    }
+  ],
+  "requirements_known": [
+    "DOCUMENT#0",
+    "DOCUMENT#60",
+    "DOCUMENT#120",
+    "DOCUMENT#180",
+    "DOCUMENT#240",
+    "DOCUMENT#300",
+    "DOCUMENT#360",
+    "DOCUMENT#420",
+    "DOCUMENT#480",
+    "DOCUMENT#540",
+    "DOCUMENT#600",
+    "DOCUMENT#660",
+    "DOCUMENT#720",
+    "DOCUMENT#780",
+    "DOCUMENT#840",
+    "DOCUMENT#900",
+    "DOCUMENT#960",
+    "DOCUMENT#1020"
+  ]
+}
