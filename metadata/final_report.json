@@ -83,7 +83,7 @@
     "UNIT_TEST": 1
   },
   "deleted_paths": [],
-  "head_commit": "ad0328f01b56655cbbbbc9fc15d2eb7792e87b57",
+  "head_commit": "473571293922a1cdc3723620e737869be298706b",
   "metrics": {
     "approved_files": 72,
     "chunks": 324,
@@ -93,55 +93,55 @@
     "files_new": 0,
     "files_total": 72,
     "files_unchanged": 72,
-    "rag_collection_size_trusted": 324,
-    "rag_collection_size_working": 324,
+    "rag_collection_size_trusted": 328,
+    "rag_collection_size_working": 349,
     "traceability_links": 14,
     "unapproved_files": 0
   },
   "rag": {
-    "trusted": 324,
-    "working": 324
+    "trusted": 328,
+    "working": 349
   },
   "repo_url": "https://github.com/SameerSrivastava19830420/repo",
-  "run_id": "aa926d08867b",
+  "run_id": "f0f7efc47add",
   "stage_timings": {
     "chunking": {
-      "duration_s": 0.014,
-      "end": 1779364792.6242642,
-      "start": 1779364792.610004
+      "duration_s": 0.012,
+      "end": 1779459524.0708084,
+      "start": 1779459524.0591455
     },
     "embedding": {
       "duration_s": 0.0,
-      "end": 1779364792.6243029,
-      "start": 1779364792.6242857
+      "end": 1779459524.0708663,
+      "start": 1779459524.0708568
     },
     "files_scanned": {
-      "duration_s": 0.006,
-      "end": 1779364792.6099803,
-      "start": 1779364792.6043324
+      "duration_s": 0.004,
+      "end": 1779459524.0591152,
+      "start": 1779459524.054947
     },
     "metadata": {
-      "duration_s": 0.027,
-      "end": 1779364792.6511161,
-      "start": 1779364792.6243172
+      "duration_s": 0.018,
+      "end": 1779459524.0885253,
+      "start": 1779459524.0708752
     },
     "rag_storage": {
-      "duration_s": 0.684,
-      "end": 1779364793.3347194,
-      "start": 1779364792.6511588
+      "duration_s": 0.002,
+      "end": 1779459524.0904717,
+      "start": 1779459524.0885603
     },
     "repo_cloned": {
-      "duration_s": 1.13,
-      "end": 1779364792.244322,
-      "start": 1779364791.1141334
+      "duration_s": 0.375,
+      "end": 1779459524.048138,
+      "start": 1779459523.6736279
     },
     "report": {
-      "start": 1779364793.3572793
+      "start": 1779459524.1094735
     },
     "traceability": {
-      "duration_s": 0.022,
-      "end": 1779364793.3569856,
-      "start": 1779364793.334756
+      "duration_s": 0.019,
+      "end": 1779459524.1094365,
+      "start": 1779459524.0905154
     }
   },
   "traceability_summary": {
